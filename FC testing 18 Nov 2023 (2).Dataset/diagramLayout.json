@@ -1,0 +1,331 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "Acme - Accounts Master",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 287.16642033935909
+          },
+          "nodeIndex": "Acme - Category Master",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 320.92906028294,
+            "y": 0
+          },
+          "nodeIndex": "Acme - Region Master",
+          "nodeLineageTag": "aace47be-a765-4b8d-9556-01fbafc0578c",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 321.577928445151,
+            "y": 344.50585538182577
+          },
+          "nodeIndex": "Acme - Transaction",
+          "nodeLineageTag": "9ba9e610-744c-467b-9bc5-a3ca3f45a065",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 1437.8979464194911,
+            "y": 658.25362954699244
+          },
+          "nodeIndex": "Balance Sheet",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 3,
+          "expandedHeight": 152
+        },
+        {
+          "location": {
+            "x": 1434.0317176697511,
+            "y": 900.71802237668794
+          },
+          "nodeIndex": "Calculation Waterfall C06",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 4,
+          "expandedHeight": 224
+        },
+        {
+          "location": {
+            "x": 1440.3068672334009,
+            "y": 487.99448902717893
+          },
+          "nodeIndex": "Country-wise Funnel",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 5,
+          "expandedHeight": 176
+        },
+        {
+          "location": {
+            "x": 1131.1274303488128,
+            "y": 482.8611782496796
+          },
+          "nodeIndex": "COVID Data",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 6,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1135.1679298067149,
+            "y": 297.75342581914265
+          },
+          "nodeIndex": "Covid-19",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 16,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1430.574059272034,
+            "y": 576.23095536059827
+          },
+          "nodeIndex": "Executive Funnel",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 7,
+          "expandedHeight": 226
+        },
+        {
+          "location": {
+            "x": 1109.9614152790718,
+            "y": 118.64514019280762
+          },
+          "nodeIndex": "Financials",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 8,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1434.3984366900827,
+            "y": 306.01975359355583
+          },
+          "nodeIndex": "Gender Gap",
+          "nodeLineageTag": "e73d67d7-ec10-42b4-846e-741afb99630d",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 9,
+          "expandedHeight": 248
+        },
+        {
+          "location": {
+            "x": 370.59953804120067,
+            "y": 517.87140602292993
+          },
+          "nodeIndex": "RAWDATA_FULL",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 18,
+          "expandedHeight": 820
+        },
+        {
+          "location": {
+            "x": 714.30431146011313,
+            "y": 452.88287932220487
+          },
+          "nodeIndex": "Retail - Orders",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 15,
+          "expandedHeight": 605.85560029819544
+        },
+        {
+          "location": {
+            "x": 775.99788062930554,
+            "y": 973.06664722791345
+          },
+          "nodeIndex": "Retail - People",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 361.15193079762395,
+            "y": 763.25851969976634
+          },
+          "nodeIndex": "Retail- Returns",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 1441.4684996038452,
+            "y": 395.893223114017
+          },
+          "nodeIndex": "Split Table",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 17,
+          "expandedHeight": 176
+        },
+        {
+          "location": {
+            "x": 1438.9396223692104,
+            "y": 822.56086085448624
+          },
+          "nodeIndex": "Waterfall - Calculation",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 19,
+          "expandedHeight": 144.13875684112929
+        },
+        {
+          "location": {
+            "x": 1435.8461051923443,
+            "y": 983.98664753502885
+          },
+          "nodeIndex": "Waterfall - Cash Flow",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 21,
+          "expandedHeight": 176
+        },
+        {
+          "location": {
+            "x": 1437.2385091712347,
+            "y": 743.28078826472165
+          },
+          "nodeIndex": "Waterfall - Income Statement",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 12,
+          "expandedHeight": 211.24282447197618
+        },
+        {
+          "location": {
+            "x": 659.56475370006683,
+            "y": 0
+          },
+          "nodeIndex": "Date",
+          "nodeLineageTag": "c98c1a91-9818-4a13-8d2e-d0758ff68645",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 13,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1139.6745541896612,
+            "y": 622.798014149385
+          },
+          "nodeIndex": "Acme - Values",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 371.42699272645206,
+            "y": 661.68165634656566
+          },
+          "nodeIndex": "Retail - Values",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 1,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1725.4684996038452,
+            "y": 474.53332361395678
+          },
+          "nodeIndex": "Parameter",
+          "nodeLineageTag": "319a424d-4528-403a-aca5-dc4ea5b09cd8",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 83.654730452469352,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
